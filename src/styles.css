@@ -33,7 +33,7 @@ html {
 
 .loc--cont {
   height: 170px;
-  width: 470px;
+  width: 90%;
   padding: 18px 0;
   border-bottom: 1px solid #f5f5f5;
   display: flex;
@@ -86,7 +86,7 @@ html {
   line-height: 30px;
   font-size: 25px;
   height: 40px;
-  width: 326px;
+
   margin: 0;
   margin-top: 7px;
 }
