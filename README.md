@@ -5,3 +5,5 @@ The purpose of this project is to continue practicing using React. More specific
 - The use of props
 - The creation of React components from an array
 - Conditional rendering
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
